@@ -1,0 +1,14 @@
+C:\Users\mert\Desktop\MertKilic-215040050\DGD208-Spring2025-MertKilic\bin\Debug\net9.0\DGD208-Spring2025-MertKilic.exe
+C:\Users\mert\Desktop\MertKilic-215040050\DGD208-Spring2025-MertKilic\bin\Debug\net9.0\DGD208-Spring2025-MertKilic.deps.json
+C:\Users\mert\Desktop\MertKilic-215040050\DGD208-Spring2025-MertKilic\bin\Debug\net9.0\DGD208-Spring2025-MertKilic.runtimeconfig.json
+C:\Users\mert\Desktop\MertKilic-215040050\DGD208-Spring2025-MertKilic\bin\Debug\net9.0\DGD208-Spring2025-MertKilic.dll
+C:\Users\mert\Desktop\MertKilic-215040050\DGD208-Spring2025-MertKilic\bin\Debug\net9.0\DGD208-Spring2025-MertKilic.pdb
+C:\Users\mert\Desktop\MertKilic-215040050\DGD208-Spring2025-MertKilic\obj\Debug\net9.0\DGD208-Spring2025-MertKilic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mert\Desktop\MertKilic-215040050\DGD208-Spring2025-MertKilic\obj\Debug\net9.0\DGD208-Spring2025-MertKilic.AssemblyInfoInputs.cache
+C:\Users\mert\Desktop\MertKilic-215040050\DGD208-Spring2025-MertKilic\obj\Debug\net9.0\DGD208-Spring2025-MertKilic.AssemblyInfo.cs
+C:\Users\mert\Desktop\MertKilic-215040050\DGD208-Spring2025-MertKilic\obj\Debug\net9.0\DGD208-Spring2025-MertKilic.csproj.CoreCompileInputs.cache
+C:\Users\mert\Desktop\MertKilic-215040050\DGD208-Spring2025-MertKilic\obj\Debug\net9.0\DGD208-Spring2025-MertKilic.dll
+C:\Users\mert\Desktop\MertKilic-215040050\DGD208-Spring2025-MertKilic\obj\Debug\net9.0\refint\DGD208-Spring2025-MertKilic.dll
+C:\Users\mert\Desktop\MertKilic-215040050\DGD208-Spring2025-MertKilic\obj\Debug\net9.0\DGD208-Spring2025-MertKilic.pdb
+C:\Users\mert\Desktop\MertKilic-215040050\DGD208-Spring2025-MertKilic\obj\Debug\net9.0\DGD208-Spring2025-MertKilic.genruntimeconfig.cache
+C:\Users\mert\Desktop\MertKilic-215040050\DGD208-Spring2025-MertKilic\obj\Debug\net9.0\ref\DGD208-Spring2025-MertKilic.dll
