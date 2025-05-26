@@ -73,6 +73,18 @@ namespace DGD208_Spring2025_MertKilic
 
         private void Stats()
         {
+            if (pets.Count == 0)
+            {
+                Console.WriteLine("No pet");
+            }
+            else
+            {
+                for (int i = 0; i < pets.Count; i++)
+                    {
+                        Pet pet = pets[i];
+                        Console.WriteLine($"{pet.name} ({pet.type}) = Food:{pet.food}, Sleep:{pet.sleep}, Smile:{pet.smile}");
+                    }
+            }
         }
 
         private void Item()
