@@ -9,9 +9,9 @@ namespace DGD208_Spring2025_MertKilic
 {
     public static List<Item> items= new List<Item>
     {
-        new Item("food",ItemType. Food, 20, 2),
+        new Item("food",ItemType. Food, 15, 2),
         new Item("toy", ItemType.Toy, 15, 1),
-        new Item("sleep", ItemType.Sleep, 25 , 3)
+        new Item("sleep", ItemType.Sleep, 15 , 3)
     };
 }
 }
